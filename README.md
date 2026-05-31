@@ -43,4 +43,4 @@ CSV Data → Python (Pandas) → PostgreSQL → Power BI Dashboard
 - `Superstore_Sales_Dashboard.pbix` — Power BI dashboard file
 
 ## Dashboard Preview
-![Superstore Dashboard](dashboard.png)
+![Superstore Dashboard](Dashboard.png)
